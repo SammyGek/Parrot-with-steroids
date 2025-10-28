@@ -229,8 +229,6 @@ nvim
 
 </details>
 
-> **Nota:** Añade tus propias capturas en la carpeta `assets/screenshots/`. Lee [assets/README.md](assets/README.md) para más detalles.
-
 ## 🤝 Contribuciones
 
 Si encuentras algún bug o quieres sugerir mejoras, siéntete libre de abrir un issue o pull request.
