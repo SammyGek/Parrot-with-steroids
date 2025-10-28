@@ -7,11 +7,27 @@ Descripción completa de todos los archivos y su propósito en este repositorio.
 | Archivo | Descripción |
 |---------|-------------|
 | `README.md` | Documentación principal del repositorio con toda la información |
+| `SHORTCUTS.md` | Lista completa de atajos de teclado del sistema |
 | `QUICKSTART.md` | Guía rápida de inicio para instalación y configuración |
 | `SETUP_GUIDE.md` | Guía detallada paso a paso para configurar el repositorio |
 | `MISSING_FILES.md` | Lista de archivos que debes copiar desde tu sistema |
 | `FILE_INDEX.md` | Este archivo - índice de todos los archivos |
 | `.gitignore` | Archivos que Git debe ignorar |
+
+## 🖼️ Assets (Imágenes)
+
+```
+assets/
+├── README.md           # Instrucciones sobre las imágenes
+├── preview.png         # Imagen principal del README (DEBES AÑADIRLA)
+└── screenshots/        # Capturas adicionales (OPCIONALES)
+    ├── polybar.png
+    ├── rofi.png
+    ├── terminal.png
+    └── ...
+```
+
+**Nota:** Lee [assets/README.md](assets/README.md) para saber cómo hacer y subir las capturas.
 
 ## 🔧 Scripts de Automatización
 

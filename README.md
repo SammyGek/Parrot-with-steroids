@@ -2,7 +2,7 @@
 
 Configuración completa y automatizada de mi entorno de trabajo basado en BSPWM para Parrot OS, optimizado para pentesting y productividad.
 
-![Preview](preview.png)
+![Preview](assets/preview.png)
 
 ## 📋 Características
 
@@ -129,14 +129,14 @@ Los atajos están definidos en `~/.config/sxhkd/sxhkdrc`. Aquí algunos importan
 | Atajo | Acción |
 |-------|--------|
 | `Super + Enter` | Abrir terminal (Kitty) |
-| `Super + d` | Launcher (Rofi) |
-| `Super + w` | Cerrar ventana |
+| `Super + D` | Launcher (Rofi) |
+| `Super + W` | Cerrar ventana |
 | `Super + [1-9]` | Cambiar a workspace |
 | `Super + Shift + [1-9]` | Mover ventana a workspace |
-| `Super + Alt + r` | Reiniciar BSPWM |
-| `Super + Alt + q` | Salir de BSPWM |
+| `Super + Alt + R` | Reiniciar BSPWM |
+| `Super + Alt + Q` | Salir de BSPWM |
 
-*Revisa el archivo sxhkdrc para ver todos los atajos disponibles*
+📋 **[Ver lista completa de atajos →](SHORTCUTS.md)**
 
 ## 📁 Estructura del Repositorio
 
@@ -224,7 +224,12 @@ nvim
 
 ## 📸 Screenshots
 
-*Añade aquí screenshots de tu setup*
+### Vista Principal
+![Preview](assets/preview.png)
+
+</details>
+
+> **Nota:** Añade tus propias capturas en la carpeta `assets/screenshots/`. Lee [assets/README.md](assets/README.md) para más detalles.
 
 ## 🤝 Contribuciones
 
